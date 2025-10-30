@@ -1,6 +1,6 @@
 pipeline {
     agent {
-        label 'loki-security-agent'
+        label 'loki-ubuntu-a'
     }
 
     environment {
